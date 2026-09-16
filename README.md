@@ -5,4 +5,5 @@ This repository is where I’m learning the basics of Git and GitHub by actually
 ![Logo_Git](https://cdn-icons-png.flaticon.com/512/2111/2111432.png)
 
 
-
+## Motivations
+I learned how to use Git and GitHub to manage my work. I practiced writing content in VS Code and syncing it to my GitHub repository. I also learned how to add an image to my project and make it appear correctly online. The main commands I used were git add, git commit, and git push. This assignment helped me understand how to organize and share my files more easily.
