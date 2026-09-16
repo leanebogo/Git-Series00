@@ -6,7 +6,7 @@ This repository is where I’m learning the basics of Git and GitHub by actually
 
 
 ## Motivations
-
+I want to learn Python, R, and Git because they’re essential tools for working with data. Python helps me understand programming logic and build small projects. R lets me explore datasets and create clear visualizations. Git helps me keep my work organized and track my progress. Learning these tools will make me more confident and independent in my studies. It took me about two hours to complete this assignment.
 
 ## Image locale
 ![image](Madere.jpg)
