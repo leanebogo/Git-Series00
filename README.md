@@ -9,7 +9,7 @@ This repository is where I’m learning the basics of Git and GitHub by actually
 I want to learn Python, R, and Git because they’re essential tools for working with data. Python helps me understand programming logic and build small projects. R lets me explore datasets and create clear visualizations. Git helps me keep my work organized and track my progress. Learning these tools will make me more confident and independent in my studies. It took me about two hours to complete this assignment.
 
 ## Local image
-![image](Madere.jpg) 
+![image](Madere.jpg)
 
 ## Learn
 I learned how to use Git and GitHub to manage my work. I practiced writing content in VS Code and syncing it to my GitHub repository. I also learned how to add an image to my project and make it appear correctly online. The main commands I used were git add, git commit, and git push. This assignment helped me understand how to organize and share my files more easily.
